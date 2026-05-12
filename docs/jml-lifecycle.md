@@ -20,6 +20,7 @@ Access flow:
 
 ```text
 Daniel Reed → Finance-Team → Finance Portal
+```
 
 ## Screenshot Evidence
 
