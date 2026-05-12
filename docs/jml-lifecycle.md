@@ -22,11 +22,66 @@ Access flow:
 Daniel Reed → Finance-Team → Finance Portal
 ```
 
+This simulated onboarding where a new employee receives access based on department, role, or group membership.
+
+## Mover Scenario
+
+Daniel Reed was moved from Finance to HR.
+
+Access changed from:
+
+```text
+Daniel Reed → Finance-Team → Finance Portal
+```
+
+to:
+
+```text
+Daniel Reed → HR-Team → HR Portal
+```
+
+This simulated a department transfer where old access is removed and new access is granted based on the updated role or department.
+
+## Leaver Scenario
+
+Daniel Reed was deactivated to simulate offboarding.
+
+Expected result:
+
+```text
+Daniel Reed → Deactivated → No application access
+```
+
+This simulated the leaver process where a user’s access is removed after leaving the organization.
+
 ## Screenshot Evidence
 
 ![JML user status showing Daniel Reed deactivated](../screenshots/jml-user-status-deactivated.png)
 
 This screenshot validates the leaver scenario by showing Daniel Reed’s account status as Deactivated after offboarding.
+
+## Attribute-Based Group Rule
+
+A group rule was created to automatically assign users to groups based on the department attribute.
+
+Example:
+
+```text
+IF department = HR
+THEN assign user to HR-Team
+```
+
+This simulates HR-driven provisioning where user attributes from a source system such as Workday or SAP SuccessFactors can drive access assignment.
+
+## Key Concepts Practiced
+
+- Joiner, mover, leaver lifecycle
+- Department-based access
+- Attribute-based group assignment
+- Automated group rules
+- RBAC-driven access changes
+- Offboarding and account deactivation
+- Least privilege access control
 
 ## Interview Summary
 
