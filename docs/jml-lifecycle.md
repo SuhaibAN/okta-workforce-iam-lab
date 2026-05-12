@@ -20,3 +20,13 @@ Access flow:
 
 ```text
 Daniel Reed → Finance-Team → Finance Portal
+
+## Screenshot Evidence
+
+![JML user status showing Daniel Reed deactivated](../screenshots/jml-user-status-deactivated.png)
+
+This screenshot validates the leaver scenario by showing Daniel Reed’s account status as Deactivated after offboarding.
+
+## Interview Summary
+
+I simulated JML lifecycle workflows in Okta by creating a new user, assigning access through department-based groups, moving the user between departments, and deactivating the account during offboarding. I also configured group rules to automatically assign users based on department attributes, which mirrors HR-driven provisioning in enterprise IAM environments.
