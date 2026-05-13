@@ -49,3 +49,7 @@ This screenshot shows the Okta end-user dashboard where Alex Chen has access to 
 ![SAML federation success](../screenshots/saml-federation-success.png)
 
 This screenshot validates SAML federation from Okta to a real test Service Provider. The result confirms that Okta issued a valid SAML assertion and the Service Provider accepted it.
+
+## Lab Outcome
+
+Configured and tested a real SAML 2.0 SSO integration using Okta as the Identity Provider and a public test Service Provider. The successful federation confirmed that Okta issued a valid SAML assertion and the Service Provider accepted it.
