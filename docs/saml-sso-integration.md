@@ -38,3 +38,10 @@ Access path:
 
 ```text
 Alex Chen → IT-Admins → Real SAML Test App
+```
+
+## Screenshot Evidence
+
+![SAML federation success](../screenshots/saml-federation-success.png)
+
+This screenshot validates successful SAML federation from Okta to a real test Service Provider.
