@@ -73,6 +73,12 @@ THEN assign user to HR-Team
 
 This simulates HR-driven provisioning where user attributes from a source system such as Workday or SAP SuccessFactors can drive access assignment.
 
+## Group Rule Evidence
+
+![Active Okta group rules](../screenshots/group-rules-active.png)
+
+This screenshot shows active Okta group rules used to automatically assign users to HR-Team or Finance-Team based on the department attribute.
+
 ## Key Concepts Practiced
 
 - Joiner, mover, leaver lifecycle
