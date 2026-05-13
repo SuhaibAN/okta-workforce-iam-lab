@@ -33,3 +33,7 @@ This model supports:
 - Faster offboarding
 - Cleaner access reviews
 
+## Lab Outcome
+
+Implemented group-based access control in Okta by assigning applications to groups instead of individual users. This demonstrated a scalable RBAC model that supports least privilege, easier onboarding, cleaner department transfers, faster offboarding, and simplified access reviews.
+
