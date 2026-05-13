@@ -57,3 +57,8 @@ Temporary access flow:
 
 ```text
 Daniel Reed → Finance-Portal-Temporary-Access → Finance Portal
+```
+
+## Lab Outcome
+
+Simulated access governance activities including access reviews, privileged access review, contractor access control, and temporary exception access. The lab demonstrated how access can be validated, approved, granted temporarily, reviewed, and removed after expiry to support least privilege and compliance.
