@@ -16,3 +16,14 @@ Policy name:
 
 ```text
 High Risk Admin Access Policy
+```
+
+## Screenshot Evidence
+
+![MFA admin policy](../screenshots/mfa-admin-policy.png)
+
+This screenshot shows the app sign-in policy requiring password plus another factor for the IT admin group before accessing privileged applications.
+
+## Interview Summary
+
+I configured an Okta app sign-in policy for a privileged admin application and required password plus another factor for the IT admin group. This simulates step-up authentication for high-risk access and demonstrates the difference between standard app access and privileged access protection.
