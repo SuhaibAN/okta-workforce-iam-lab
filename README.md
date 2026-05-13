@@ -18,6 +18,10 @@ The goal is to demonstrate practical IAM administration and governance skills us
 - Access reviews
 - Temporary exception access
 
+## Architecture Diagram
+
+[View IAM architecture diagram](diagrams/iam-architecture.md)
+
 ## Lab Scenario
 
 A mock company, MapleTech Financial, was created with users across HR, Finance, IT, and Contractor teams.
