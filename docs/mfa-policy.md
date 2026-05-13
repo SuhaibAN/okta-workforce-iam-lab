@@ -24,3 +24,6 @@ High Risk Admin Access Policy
 
 This screenshot shows the app sign-in policy requiring password plus another factor for the IT admin group before accessing privileged applications.
 
+## Lab Outcome
+
+Configured an Okta app sign-in policy for a privileged admin application requiring password plus another factor for the IT admin group. This simulated step-up authentication for high-risk access and demonstrated the difference between standard application access and privileged access protection.
