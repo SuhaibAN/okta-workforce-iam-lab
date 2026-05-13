@@ -17,6 +17,12 @@ Instead of assigning applications directly to users, access was assigned through
 | Alex Chen | IT-Admins | IT Admin Portal |
 | Mark Wilson | Contractors | Contractor Portal |
 
+## Screenshot Evidence
+
+![HR Portal group assignment](../screenshots/app-group-assignment-hr-portal.png)
+
+This screenshot shows HR Portal assigned to the HR-Team group, demonstrating group-based RBAC instead of direct user assignment.
+
 ## Control Benefit
 
 This model supports:
