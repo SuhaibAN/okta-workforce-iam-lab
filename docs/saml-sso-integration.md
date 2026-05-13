@@ -44,5 +44,4 @@ Alex Chen → IT-Admins → Real SAML Test App
 
 ![SAML federation success](../screenshots/saml-federation-success.png)
 
-This screenshot validates successful SAML federation from Okta to a real test Service Provider.
-The successful federation confirms that Okta issued a valid SAML assertion and the Service Provider accepted it.
+This screenshot validates SAML federation from Okta to a real test Service Provider. The result confirms that Okta issued a valid SAML assertion and the Service Provider accepted it.
