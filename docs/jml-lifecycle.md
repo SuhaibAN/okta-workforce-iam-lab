@@ -88,7 +88,3 @@ This screenshot shows active Okta group rules used to automatically assign users
 - RBAC-driven access changes
 - Offboarding and account deactivation
 - Least privilege access control
-
-## Interview Summary
-
-I simulated JML lifecycle workflows in Okta by creating a new user, assigning access through department-based groups, moving the user between departments, and deactivating the account during offboarding. I also configured group rules to automatically assign users based on department attributes, which mirrors HR-driven provisioning in enterprise IAM environments.
