@@ -42,6 +42,10 @@ Alex Chen → IT-Admins → Real SAML Test App
 
 ## Screenshot Evidence
 
+![Okta dashboard showing assigned SAML apps](../screenshots/okta-user-dashboard-saml-apps.png)
+
+This screenshot shows the Okta end-user dashboard where Alex Chen has access to the IT Admin Portal and Real SAML Test App through group-based assignment.
+
 ![SAML federation success](../screenshots/saml-federation-success.png)
 
 This screenshot validates SAML federation from Okta to a real test Service Provider. The result confirms that Okta issued a valid SAML assertion and the Service Provider accepted it.
