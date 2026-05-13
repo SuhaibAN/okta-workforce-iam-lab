@@ -33,6 +33,3 @@ This model supports:
 - Faster offboarding
 - Cleaner access reviews
 
-## Interview Summary
-
-I practiced RBAC in Okta by creating department-based groups and assigning applications to groups instead of individual users. This allowed user access to be managed through role/group membership and supported cleaner joiner, mover, and leaver operations.
