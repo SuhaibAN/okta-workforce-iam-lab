@@ -88,3 +88,7 @@ This screenshot shows active Okta group rules used to automatically assign users
 - RBAC-driven access changes
 - Offboarding and account deactivation
 - Least privilege access control
+
+## Lab Outcome
+
+Simulated joiner, mover, and leaver lifecycle workflows in Okta by creating a user, assigning access through department-based groups, moving the user between departments, and deactivating the account during offboarding. Group rules were also configured to automate access assignment based on department attributes, simulating HR-driven provisioning.
