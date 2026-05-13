@@ -75,7 +75,7 @@ This simulates HR-driven provisioning where user attributes from a source system
 
 ## Group Rule Evidence
 
-![Active Okta group rules](../screenshots/group-rules-active.png)
+![Okta group rules](../screenshots/group-rules.png)
 
 This screenshot shows active Okta group rules used to automatically assign users to HR-Team or Finance-Team based on the department attribute.
 
